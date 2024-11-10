@@ -1,0 +1,32 @@
+# Python Bytecode Files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# PyCharm Files
+.idea/
+
+# Log files
+*.log
+
+# Temporary Files
+*~
+.#*
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# Database Files
+*.sqlite3
+*.db
+
+# Environment Variables File
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
